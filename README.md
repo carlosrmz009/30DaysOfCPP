@@ -22,7 +22,7 @@ Simple program which takes two numbers as an input, allows selecting between fiv
 
 <sub> really, i spent almost one hour trying to fix an error that wasn't even there anymore...</sub>
 
-###########################################################################################################
+#######################################################################################
 
 _Day 2:_ **Rock, Paper, Scissors!**
 
