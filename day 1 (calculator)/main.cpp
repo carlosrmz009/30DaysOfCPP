@@ -96,5 +96,6 @@ int main()
     cout << endl;
     sleep_for(6s);
     calculate();
+    sleep_for(5s);
     return 0;
 }
