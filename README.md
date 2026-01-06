@@ -22,6 +22,8 @@ Simple program which takes two numbers as an input, allows selecting between fiv
 
 <sub> really, i spent almost one hour trying to fix an error that wasn't even there anymore...</sub>
 
+###########################################################################################################
+
 _Day 2:_ **Rock, Paper, Scissors!**
 
 You play against the computer. Every outcome is randomly generated according to the current time, to ensure absolute randomness. Uses cstdlib and ctime for boring stuff.
