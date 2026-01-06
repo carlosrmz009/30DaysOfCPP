@@ -22,7 +22,9 @@ Simple program which takes two numbers as an input, allows selecting between fiv
 
 <sub> really, i spent almost one hour trying to fix an error that wasn't even there anymore...</sub>
 
+
 #######################################################################################
+
 
 _Day 2:_ **Rock, Paper, Scissors!**
 
@@ -35,5 +37,9 @@ You play against the computer. Every outcome is randomly generated according to 
 > - value comparisons
 > - seeding and random generation
 > - raw string literals for ascii art
+
+
+#######################################################################################
+
 
 <img width="1255" height="404" alt="Screenshot 2026-01-04 203457" src="https://github.com/user-attachments/assets/c806279b-2974-48a0-b688-9ce9e1b54271" />
