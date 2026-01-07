@@ -46,7 +46,7 @@ _Day 2:_ **Bubblesort**
 
 My attempt at a classic coding problem. Comes with some neat animations I made! Uses the _vector_ library for storing data, instead of a normal array, because of its dynamic size.
 
-https://github.com/user-attachments/assets/1ee0ed7b-0ed8-432c-9a6c-7dad3112e36c
+![Recording 2026-01-06 210807](https://github.com/user-attachments/assets/8491865c-d24e-4e2a-8ad0-7aefd6bc3f45)
 
 > concepts learned:
 > - while loops
